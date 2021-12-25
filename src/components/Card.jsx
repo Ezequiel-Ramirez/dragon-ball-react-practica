@@ -7,7 +7,7 @@ const Card = ({name, id, type}) => {
        
         <div className='card m-3 col-12 col-md-4 text-center mt-auto' style={{maxWidth:"250px"}} key={id}>
         <div className='card-body'>
-        <img src={path} alt={name} className='card-img-top'/>
+        <img loading='lazy' src={path} alt={name} className='card-img-top'/>
             <h5 className='card-title'>{name}</h5>
             <p className='card-text'>
                 <Link className='btn btn-primary ' to={`/character/${id}`} > Ver más</Link>
