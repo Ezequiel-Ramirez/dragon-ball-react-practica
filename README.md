@@ -1,6 +1,5 @@
 # Dragon Ball App React
 
-Link del sitio en Versel [Click aqui](https://github.com/facebook/create-react-app).
 ![React Desde Cero _ Udemy](https://user-images.githubusercontent.com/78183135/147387314-a2bc0b9e-1abf-4a03-9f87-0b72fbc2f6eb.gif)
 
 ## Available Scripts
